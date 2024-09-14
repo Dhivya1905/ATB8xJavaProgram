@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Third Exercise">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_11092024/Lab009_Variable_DataType_Identifier1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab006_Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab006_Comments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab007_Keywords_Identifiers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab008_Variable_DataType_Identifier.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
     "Application.Lab006_Comments.executor": "Run",
     "Application.Lab007_Keywords_Identifiers.executor": "Run",
     "Application.Lab008_Variable_DataType_Identifier.executor": "Run",
+    "Application.Lab009_Variable_DataType_Identifier1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -143,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726238100542</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third Exercise">
+      <option name="closed" value="true" />
+      <created>1726291993839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726291993839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
