@@ -1,7 +1,7 @@
 package Sept.ex_09092024;
 
 public class Lab008_Variable_DataType_Identifier {
-    public static void main(String[] arg){
+        public static void main(String[] arg){
     /* variable is used to store the value
         int - DataType
         a- VariableName

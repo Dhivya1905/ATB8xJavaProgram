@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Second Exercise">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab006_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab007_Keywords_Identifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab008_Variable_DataType_Identifier.java" afterDir="false" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Third Exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab006_Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab006_Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab007_Keywords_Identifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab008_Variable_DataType_Identifier.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,9 @@
     &quot;accountId&quot;: &quot;5f939902-8221-40a6-ac8d-6d128d504c4e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -60,6 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dhivy/IdeaProjects/ATB8xJavaProgram/out/production/ATB8xJavaProgram",
     "onboarding.tips.debug.path": "C:/Users/dhivy/IdeaProjects/ATB8xJavaProgram/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -87,9 +91,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_09092024.Lab006" />
+    <configuration name="Lab006_Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_09092024.Lab006_Comments" />
       <module name="ATB8xJavaProgram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/ATB8xJavaProgram" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sept.ex_09092024.*" />
@@ -100,9 +105,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab003" />
+      <item itemvalue="Application.Lab005" />
+      <item itemvalue="Application.Lab006_Comments" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab006" />
+        <item itemvalue="Application.Lab006_Comments" />
         <item itemvalue="Application.Lab005" />
         <item itemvalue="Application.Lab003" />
       </list>
@@ -125,12 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725807160103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Third Exercise">
+      <option name="closed" value="true" />
+      <created>1726238100542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726238100542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Exercise" />
+    <MESSAGE value="Third Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
