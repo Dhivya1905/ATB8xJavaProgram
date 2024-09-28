@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Fifth Exercise" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Fifth Exercise">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab0017_RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab0018_LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab015_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab016_Compound_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_18092024/Lab019_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_18092024/Lab020_Increment_DecrementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/task/Task_18sep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab013_Literal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab013_Literal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +58,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab0017_RelationalOperator.executor": "Run",
+    "Application.Lab0018_LogicalOperator.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab005.executor": "Run",
@@ -60,8 +72,13 @@
     "Application.Lab013_Literal.executor": "Run",
     "Application.Lab013_Task_Arimethic_calculator.executor": "Run",
     "Application.Lab014_Constant.executor": "Run",
+    "Application.Lab015_Operators.executor": "Run",
+    "Application.Lab016_Compound_Operator.executor": "Run",
+    "Application.Lab019_TypeCasting.executor": "Run",
+    "Application.Lab020_Increment_DecrementOperator.executor": "Run",
     "Application.Lab_011_Task_PrintTable.executor": "Run",
     "Application.Lab_012_string_formatted.executor": "Run",
+    "Application.Task_18sep.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -201,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726311347660</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fifth Exercise">
+      <option name="closed" value="true" />
+      <created>1726311415364</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726311415364</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

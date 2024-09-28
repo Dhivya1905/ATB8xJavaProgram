@@ -4,7 +4,7 @@ public class Lab013_Literal {
 public static void main (String[] args){
     //Literal
     /* 24 is the literal
-    char
+    escape char
      */
     int age= 24;
     int binary_number=0b010101;
