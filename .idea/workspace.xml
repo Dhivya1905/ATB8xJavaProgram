@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Fifth Exercise">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab0017_RelationalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab0018_LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab015_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab016_Compound_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_18092024/Lab019_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_18092024/Lab020_Increment_DecrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/task/Task_18sep.java" afterDir="false" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Sixth &amp; Seventh  Exercise">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_20092024/Lab021_Ternary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_20092024/Lab022_Mathclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_20092024/Lab023_Condition_and_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/task/Task_20Sep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab013_Literal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab013_Literal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +72,13 @@
     "Application.Lab016_Compound_Operator.executor": "Run",
     "Application.Lab019_TypeCasting.executor": "Run",
     "Application.Lab020_Increment_DecrementOperator.executor": "Run",
+    "Application.Lab021_Ternary_operator.executor": "Run",
+    "Application.Lab022_Mathclass.executor": "Run",
+    "Application.Lab023_Condition_and_Loops.executor": "Run",
     "Application.Lab_011_Task_PrintTable.executor": "Run",
     "Application.Lab_012_string_formatted.executor": "Run",
     "Application.Task_18sep.executor": "Run",
+    "Application.Task_20Sep.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -226,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726311415364</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sixth &amp; Seventh  Exercise">
+      <option name="closed" value="true" />
+      <created>1727534360040</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727534360040</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +242,8 @@
     <MESSAGE value="Third Exercise" />
     <MESSAGE value="Fourth Exercise" />
     <MESSAGE value="Fifth Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth Exercise" />
+    <MESSAGE value="Sixth &amp; Seventh  Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth &amp; Seventh  Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,6 +252,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_20092024/Lab023_Condition_and_Loops.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/ex_06092024/Lab003.java</url>
