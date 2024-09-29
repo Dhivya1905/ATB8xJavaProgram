@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Sixth &amp; Seventh  Exercise">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_20092024/Lab021_Ternary_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_20092024/Lab022_Mathclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_20092024/Lab023_Condition_and_Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/task/Task_20Sep.java" afterDir="false" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Eighth Exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/task/Task_20Sep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/task/Task_20Sep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
     "Application.Lab_011_Task_PrintTable.executor": "Run",
     "Application.Lab_012_string_formatted.executor": "Run",
     "Application.Task_18sep.executor": "Run",
-    "Application.Task_20Sep.executor": "Run",
+    "Application.Task_20Sep.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -124,7 +121,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_20Sep" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.task.Task_20Sep" />
+      <module name="ATB8xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sept.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Task_20Sep" />
       <item itemvalue="Application.Lab003" />
       <item itemvalue="Application.Lab005" />
       <item itemvalue="Application.Lab006_Comments" />
@@ -234,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727534360040</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Eighth Exercise">
+      <option name="closed" value="true" />
+      <created>1727612181588</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727612181588</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,7 +262,8 @@
     <MESSAGE value="Fourth Exercise" />
     <MESSAGE value="Fifth Exercise" />
     <MESSAGE value="Sixth &amp; Seventh  Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sixth &amp; Seventh  Exercise" />
+    <MESSAGE value="Eighth Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eighth Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -257,6 +277,21 @@
           <url>file://$PROJECT_DIR$/src/Sept/ex_20092024/Lab023_Condition_and_Loops.java</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/task/Task_20Sep.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/task/Task_20Sep.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/task/Task_20Sep.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/ex_06092024/Lab003.java</url>

@@ -87,16 +87,10 @@ Write a program that prints numbers from 1 to 100.
 
        // Leap Year Program - Find 2024
 
-int year=1900;
-        boolean isLeap = false;
+int year=2100;
 
-        if (year%4==0)
-        {
-        if (year %100 !=0 || year %400 ==0  ){
-            isLeap = true;
-        }}
+        if ((year%4==0 && year%100!=0 )||(year %400 ==0  ))
 
-        if(isLeap)
 
         {System.out.printf("%d is a leap Year",year);}
         else
