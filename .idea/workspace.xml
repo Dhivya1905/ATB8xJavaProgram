@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Task and Exercise">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_30092024/Lab035_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_30092024/Lab036_FunctionTypes.java" afterDir="false" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Excercise">
+      <change afterPath="$PROJECT_DIR$/src/Oct/task/ATBStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_Class_and_objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_OOPS_and_Feature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_30092024/Lab035_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_30092024/Lab035_Functions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATBStudent.executor": "Run",
     "Application.Lab0017_RelationalOperator.executor": "Run",
     "Application.Lab0018_LogicalOperator.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -104,7 +107,7 @@
     "Application.Task_27Sep_Dowhile_VS_While.executor": "Run",
     "Application.Task_27Sep_Factorial.executor": "Run",
     "Application.Task_27Sep_First5_EvenNumber.executor": "Run",
-    "Application.Task_27Sep_Print_SUM_100_Numbers.executor": "Debug",
+    "Application.Task_27Sep_Print_SUM_100_Numbers.executor": "Run",
     "Application.Task_27_Primenumber.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -164,7 +167,7 @@
       <module name="ATB8xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.task.*" />
+          <option name="PATTERN" value="Oct.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,7 +180,7 @@
       <module name="ATB8xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.task.*" />
+          <option name="PATTERN" value="Oct.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,7 +193,7 @@
       <module name="ATB8xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.task.*" />
+          <option name="PATTERN" value="Oct.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728122040628</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Excercise">
+      <option name="closed" value="true" />
+      <created>1728129290958</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728129290958</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -365,7 +376,8 @@
     <MESSAGE value="Eighth Exercise" />
     <MESSAGE value="Nineth Exercise" />
     <MESSAGE value="Task and Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task and Exercise" />
+    <MESSAGE value="Excercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

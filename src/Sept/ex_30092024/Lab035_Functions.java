@@ -6,7 +6,7 @@ public class Lab035_Functions {
         /*Function are also called methods -
         They are blocks of code  designed to perform specific task and are essential for organising and reusing code
 
-       *2 parts in Java*
+       *2 parts in Function*
 
        1.Defining the method
        2.Calling the method
