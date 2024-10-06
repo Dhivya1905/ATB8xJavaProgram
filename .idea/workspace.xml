@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="Excercise">
-      <change afterPath="$PROJECT_DIR$/src/Oct/task/ATBStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_Class_and_objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_OOPS_and_Feature.java" afterDir="false" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="oct 2nd task">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Car1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_30092024/Lab035_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_30092024/Lab035_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/task/ATBStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/ATBStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_Class_and_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task_02Oct_Class_and_objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_OOPS_and_Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task_02Oct_OOPS_and_Feature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ATBStudent.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.Car1.executor": "Run",
+    "Application.Dog.executor": "Run",
     "Application.Lab0017_RelationalOperator.executor": "Run",
     "Application.Lab0018_LogicalOperator.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -364,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728129290958</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="oct 2nd task">
+      <option name="closed" value="true" />
+      <created>1728219729271</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728219729271</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -377,7 +389,8 @@
     <MESSAGE value="Nineth Exercise" />
     <MESSAGE value="Task and Exercise" />
     <MESSAGE value="Excercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excercise" />
+    <MESSAGE value="oct 2nd task" />
+    <option name="LAST_COMMIT_MESSAGE" value="oct 2nd task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

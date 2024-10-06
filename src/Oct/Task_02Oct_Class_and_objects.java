@@ -1,4 +1,4 @@
-package Oct.task;
+package Oct;
 
 public class Task_02Oct_Class_and_objects {
 

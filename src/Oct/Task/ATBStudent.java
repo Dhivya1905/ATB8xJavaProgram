@@ -1,4 +1,4 @@
-package Oct.task;
+package Oct;
 
 public class ATBStudent {
     int Student_ID;
