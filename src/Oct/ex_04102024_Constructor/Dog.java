@@ -24,6 +24,10 @@ public class Dog {
 
     void walk(){}
 
+
+
+
+
     public static void main(String[] args){
 
         Dog GS= new Dog("GS","AA","Brown",2);

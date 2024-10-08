@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="oct 2nd task">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Car1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/task/ATBStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/ATBStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_Class_and_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task_02Oct_Class_and_objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/task/Task_02Oct_OOPS_and_Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task_02Oct_OOPS_and_Feature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Car1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Car1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Constructor/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +93,7 @@
     "Application.Lab_012_string_formatted.executor": "Run",
     "Application.Lab_031_ContinueExample2.executor": "Run",
     "Application.Lab_032_UserInput.executor": "Run",
+    "Application.Person.executor": "Run",
     "Application.Task27Sep_Count_vowela_Consonant.executor": "Run",
     "Application.Task27_PrintTable10.executor": "Run",
     "Application.Task_18sep.executor": "Run",
@@ -376,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728219729271</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="oct 2nd task">
+      <option name="closed" value="true" />
+      <created>1728224850836</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728224850836</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
