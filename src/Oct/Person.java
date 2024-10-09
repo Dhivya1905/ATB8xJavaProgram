@@ -24,7 +24,9 @@ public class Person {
     void dressUp(){}
 
     //Default Constructor//
-    Person() {
+    public Person() {
+        Name="unKnown";
+        Age=0;
         System.out.println("Hello");
     }
 
@@ -65,10 +67,10 @@ public class Person {
     }
     //RTWP//
 
-    public static int FunctionType4(String Name, int Age)
+    public static String FunctionType4(String Name, int Age)
     {
         System.out.println("This is NRWP function");
-        return 0000;
+        return "Name :" + Name +" "+ "Age :"  +Age;
 
     }
 
@@ -77,10 +79,28 @@ public class Person {
     public  static void main(String[] args)
     {
 
+        //This calls the default Constructor
+
+        Person ps= new Person();
+        {
+
+            System.out.println("This is Default Construtor");
+          System.out.println("Name : " + ps.Name);
+          System.out.println("Age : "+ ps.Age);
+
+        }
+
+
+
+        //This calls the Param Constructor
 
          Person Amar = new Person("Amar",24,"Chennai",8765457864l,
                  'M',"O+","Agriculture",true,"19-05-1995","B.E");
+
+
+        System.out.println("This is param Constructor");
         System.out.println("********************Person1***********************");
+
          System.out.println(Amar.Name);
         System.out.println(Amar.Age);
         System.out.println(Amar.Address);
@@ -134,7 +154,7 @@ public class Person {
 
         Person Vivek = new Person("Vivek",26,"chennai",9657807644l,
                 'M',"B+","Doctor",true,"07-11-1994","MD");
-        System.out.println("********************Person45***********************");
+        System.out.println("********************Person5***********************");
         System.out.println(Vivek.Name);
         System.out.println(Vivek.Age);
         System.out.println(Vivek.Address);
@@ -145,8 +165,14 @@ public class Person {
         System.out.println(Vivek.DOB);
         System.out.println(Vivek.Qualification);
 
+        System.out.println("********************Calling Function***********************");
+        FunctionType1();
+        FunctionType2();
+        FunctionType3("Dhivya",31);
 
 
+        String F4= FunctionType4("Pradeep",35);
+        System.out.println("Returned from F4: " + F4);
 
     }
 
