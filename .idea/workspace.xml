@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="All files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Ex_2/ICICIBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Ex_2/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Examp_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/VMOLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct11/APIAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct11/BaseTestAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct11/TestCaseAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Police/Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Police/JrCop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Examp_2/Baseclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.APIAutomation.executor": "Run",
     "Application.ATBStudent.executor": "Run",
     "Application.Car.executor": "Run",
     "Application.Car1.executor": "Run",
@@ -100,6 +107,8 @@
     "Application.Lab043_Overloading.executor": "Run",
     "Application.Lab044.executor": "Run",
     "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
     "Application.Lab_011_Task_PrintTable.executor": "Run",
     "Application.Lab_012_string_formatted.executor": "Run",
     "Application.Lab_031_ContinueExample2.executor": "Run",
@@ -123,6 +132,7 @@
     "Application.Task_27Sep_First5_EvenNumber.executor": "Run",
     "Application.Task_27Sep_Print_SUM_100_Numbers.executor": "Run",
     "Application.Task_27_Primenumber.executor": "Debug",
+    "Application.Thief.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -418,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728495188020</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="All files">
+      <option name="closed" value="true" />
+      <created>1729355317483</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1729355317483</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -543,6 +561,26 @@
           <line>13</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/ex_06092024/Lab003.java</url>
           <line>4</line>
@@ -551,6 +589,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java</url>
+          <line>23</line>
+          <properties class="car" method="display">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
