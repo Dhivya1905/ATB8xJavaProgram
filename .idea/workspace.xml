@@ -5,56 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="All files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct18/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct18/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct18/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/StringEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/StringFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/stringBuilder_stringBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/Oct18/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/Task_02Oct_Class_and_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/Oct02/Task_02Oct_Class_and_objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/Task_02Oct_OOPS_and_Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/Oct02/Task_02Oct_OOPS_and_Feature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Has_A_Concept/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Has_A_Concept/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Has_A_Concept/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Has_A_Concept/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Has_A_Concept/Tyre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Has_A_Concept/Tyre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Dhivya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Dhivya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Lab041_Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Lab041_Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Shali.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Shali.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Vignesh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Vignesh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hybrid_Inheritance/Hybrid_Inhertance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hybrid_Inheritance/Hybrid_Inhertance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/IS_A_Conept/Lab042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/IS_A_Conept/Lab042.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/IS_A_Conept/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/IS_A_Conept/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/IS_A_Conept/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/IS_A_Conept/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multilevel_Inheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multilevel_Inheritance/Child.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multilevel_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multilevel_Inheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multilevel_Inheritance/GrandFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multilevel_Inheritance/GrandFather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multilevel_Inheritance/Lab040_Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multilevel_Inheritance/Lab040_Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multiple_Inheritance/Multiple_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multiple_Inheritance/Multiple_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex1/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex1/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex1/Lab037_Single_Inheritance_Eg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex1/Lab037_Single_Inheritance_Eg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex1/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex1/Son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex2/BaseTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex2/BaseTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex2/Lab038_Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex2/Lab038_Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex2/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex2/TestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex3_IS_A/Lab039_Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex3_IS_A/Lab039_Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex3_IS_A/Programming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex3_IS_A/Programming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex3_IS_A/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex3_IS_A/Python.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Polymorphism/Method_Overloading/Lab043_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Polymorphism/Method_Overloading/Lab043_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Polymorphism/Method_Overloading/mathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Polymorphism/Method_Overloading/mathOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Polymorphism/Method_Overlriding/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Polymorphism/Method_Overlriding/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Polymorphism/Method_Overlriding/Hound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Polymorphism/Method_Overlriding/Hound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Polymorphism/Method_Overlriding/Lab044.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Polymorphism/Method_Overlriding/Lab044.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Criminal/Thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/AccessModifier/Criminal/Thief.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Police/Cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/AccessModifier/Police/Cop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Police/JrCop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/AccessModifier/Police/JrCop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Ex_2/ICICIBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Ex_2/ICICIBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Ex_2/Lab045.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Ex_2/Lab045.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Examp_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Examp_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Examp_2/Baseclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Baseclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Superkeyword/Lab046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Lab046.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/VMOLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/VMOLogin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -497,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729441400728</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="All files">
+      <option name="closed" value="true" />
+      <created>1729774103681</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774103681</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-package Oct.ex09102024_Inheritance.Has_A_Concept;
+package Oct.ex_09102024_Inheritance.Has_A_Concept;
 
 public class Car {
 

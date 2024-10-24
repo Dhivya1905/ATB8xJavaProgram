@@ -1,4 +1,4 @@
-package Oct.ex09102024_Inheritance.Multilevel_Inheritance;
+package Oct.ex_09102024_Inheritance.Multilevel_Inheritance;
 
 public class Child  extends Father{
 

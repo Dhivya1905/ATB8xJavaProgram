@@ -1,4 +1,4 @@
-package Oct.ex11092024_Encapsulation.AccessModifier.Police;
+package Oct.ex_11092024_Encapsulation.AccessModifier.Police;
 
 public class Cop {
 

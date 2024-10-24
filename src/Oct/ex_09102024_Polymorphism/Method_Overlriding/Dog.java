@@ -1,4 +1,4 @@
-package Oct.ex09102024_Polymorphism.Method_Overlriding;
+package Oct.ex_09102024_Polymorphism.Method_Overlriding;
 
 public class Dog {
 

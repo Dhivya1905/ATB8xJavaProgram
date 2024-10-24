@@ -1,4 +1,4 @@
-package Oct.ex11092024_Encapsulation;
+package Oct.ex_11092024_Encapsulation;
 
 public class Examp_1 {
 
