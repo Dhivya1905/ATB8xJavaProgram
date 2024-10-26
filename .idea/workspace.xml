@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="All files">
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Baseclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Exception_CLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab052_Exception_CLI_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab053_Exception_Examp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab054_Try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab055_Try_catch_combined.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_WrapperClass/Wrapper_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_WrapperClass/Wrapperclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/Oct18/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/Task_02Oct_Class_and_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/Oct02/Task_02Oct_Class_and_objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/Task_02Oct_OOPS_and_Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/Task/Oct02/Task_02Oct_OOPS_and_Feature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Has_A_Concept/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Has_A_Concept/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Has_A_Concept/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Has_A_Concept/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Dhivya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Dhivya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Hirerarchical_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Hirerarchical_Inheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multilevel_Inheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multilevel_Inheritance/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Multilevel_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Multilevel_Inheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Inheritance/Single_Inheritance/Ex2/BaseTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Inheritance/Single_Inheritance/Ex2/BaseTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex09102024_Polymorphism/Method_Overlriding/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024_Polymorphism/Method_Overlriding/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/AccessModifier/Police/Cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/AccessModifier/Police/Cop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex11092024_Encapsulation/Examp_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Examp_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,105 +58,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.APIAutomation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ATBStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Examp_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab0017_RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab0018_LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007_Keywords_Identifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab008_Variable_DataType_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009_Variable_DataType_Identifier1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab010_print_function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013_Literal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013_Task_Arimethic_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014_Constant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab015_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016_Compound_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab019_TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab020_Increment_DecrementOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab021_Ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab022_Mathclass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab023_Condition_and_Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab024_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab025_For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab026_Loop_with_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab027_PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab028_break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029_Continue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab030_Continue_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab033_Do_While.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab034_Dowhile_VS_While.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab035_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab036_FunctionTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab037_Single_Inheritance_Eg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab038_Ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab039_Ex3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040_Ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab041_Ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab042.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043_Overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab049.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab049_IIb_SIB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_011_Task_PrintTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_012_string_formatted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_031_ContinueExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_032_UserInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task27Sep_Count_vowela_Consonant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task27_PrintTable10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_18sep.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_20Sep.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_20Sep_Fizzbuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_20Sep_Leap_Year.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_20Sep_TernaryOperator_Max_between_3_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_20Sep_TernaryOperator_Score_Grade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_23Sep.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_23Sep_Integer_Input_Month_Print_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_23Sep_Simple_Arithmetic_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_23Sep_meter_kilometer_celcius_Farenhiet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_24Sep_TriangleClassifier_IF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_27Sep_Dowhile_VS_While.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_27Sep_Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_27Sep_First5_EvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_27Sep_Print_SUM_100_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_27_Primenumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Thief.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhivy/IdeaProjects/ATB8xJavaProgram/out/production/ATB8xJavaProgram&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dhivy/IdeaProjects/ATB8xJavaProgram/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;aws&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.APIAutomation.executor": "Run",
+    "Application.ATBStudent.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.Car1.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Examp_1.executor": "Run",
+    "Application.Lab0017_RelationalOperator.executor": "Run",
+    "Application.Lab0018_LogicalOperator.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab006_Comments.executor": "Run",
+    "Application.Lab007_Keywords_Identifiers.executor": "Run",
+    "Application.Lab008_Variable_DataType_Identifier.executor": "Run",
+    "Application.Lab009_Variable_DataType_Identifier1.executor": "Run",
+    "Application.Lab010_print_function.executor": "Run",
+    "Application.Lab013_Literal.executor": "Run",
+    "Application.Lab013_Task_Arimethic_calculator.executor": "Run",
+    "Application.Lab014_Constant.executor": "Run",
+    "Application.Lab015_Operators.executor": "Run",
+    "Application.Lab016_Compound_Operator.executor": "Run",
+    "Application.Lab019_TypeCasting.executor": "Run",
+    "Application.Lab020_Increment_DecrementOperator.executor": "Run",
+    "Application.Lab021_Ternary_operator.executor": "Run",
+    "Application.Lab022_Mathclass.executor": "Run",
+    "Application.Lab023_Condition_and_Loops.executor": "Run",
+    "Application.Lab024_Switch.executor": "Run",
+    "Application.Lab025_For_Loop.executor": "Run",
+    "Application.Lab026_Loop_with_condition.executor": "Run",
+    "Application.Lab027_PrimeNumber.executor": "Run",
+    "Application.Lab028_break.executor": "Run",
+    "Application.Lab029_Continue.executor": "Run",
+    "Application.Lab030_Continue_example.executor": "Run",
+    "Application.Lab033_Do_While.executor": "Run",
+    "Application.Lab034_Dowhile_VS_While.executor": "Run",
+    "Application.Lab035_Functions.executor": "Run",
+    "Application.Lab036_FunctionTypes.executor": "Run",
+    "Application.Lab037_Single_Inheritance_Eg.executor": "Run",
+    "Application.Lab038_Ex2.executor": "Run",
+    "Application.Lab039_Ex3.executor": "Run",
+    "Application.Lab040_Ex1.executor": "Run",
+    "Application.Lab041_Ex1.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043_Overloading.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab048_1.executor": "Run",
+    "Application.Lab048_2.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab049_IIb_SIB.executor": "Run",
+    "Application.Lab051_Exception.executor": "Run",
+    "Application.Lab052_Exception_4.executor": "Run",
+    "Application.Lab053_Exception_Examp.executor": "Run",
+    "Application.Lab054_Try_catch.executor": "Run",
+    "Application.Lab52_Exception_1.executor": "Run",
+    "Application.Lab52_Exception_2.executor": "Run",
+    "Application.Lab52_Exception_3.executor": "Run",
+    "Application.Lab_011_Task_PrintTable.executor": "Run",
+    "Application.Lab_012_string_formatted.executor": "Run",
+    "Application.Lab_031_ContinueExample2.executor": "Run",
+    "Application.Lab_032_UserInput.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.StringEqual.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.Task27Sep_Count_vowela_Consonant.executor": "Run",
+    "Application.Task27_PrintTable10.executor": "Run",
+    "Application.Task_18sep.executor": "Run",
+    "Application.Task_20Sep.executor": "Run",
+    "Application.Task_20Sep_Fizzbuzz.executor": "Run",
+    "Application.Task_20Sep_Leap_Year.executor": "Run",
+    "Application.Task_20Sep_TernaryOperator_Max_between_3_Num.executor": "Run",
+    "Application.Task_20Sep_TernaryOperator_Score_Grade.executor": "Run",
+    "Application.Task_23Sep.executor": "Run",
+    "Application.Task_23Sep_Integer_Input_Month_Print_Switch.executor": "Run",
+    "Application.Task_23Sep_Simple_Arithmetic_Operator.executor": "Run",
+    "Application.Task_23Sep_meter_kilometer_celcius_Farenhiet.executor": "Run",
+    "Application.Task_24Sep_TriangleClassifier_IF.executor": "Run",
+    "Application.Task_27Sep_Dowhile_VS_While.executor": "Run",
+    "Application.Task_27Sep_Factorial.executor": "Run",
+    "Application.Task_27Sep_First5_EvenNumber.executor": "Run",
+    "Application.Task_27Sep_Print_SUM_100_Numbers.executor": "Run",
+    "Application.Task_27_Primenumber.executor": "Debug",
+    "Application.Thief.executor": "Run",
+    "Application.Wrapper_Exception.executor": "Run",
+    "Application.Wrapperclass.executor": "Run",
+    "Application.stringBuilder_stringBuffer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dhivy/IdeaProjects/ATB8xJavaProgram/out/production/ATB8xJavaProgram",
+    "onboarding.tips.debug.path": "C:/Users/dhivy/IdeaProjects/ATB8xJavaProgram/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "aws"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Sept" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_20Sep">
+  <component name="RunManager">
     <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Lab003" />
@@ -191,6 +199,45 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab051_Exception" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Exception_CLI" />
+      <module name="ATB8xJavaProgram" />
+      <option name="PROGRAM_PARAMETERS" value="11 12 13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab052_Exception_4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <module name="ATB8xJavaProgram" />
+      <option name="PROGRAM_PARAMETERS" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab52_Exception_1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <module name="ATB8xJavaProgram" />
+      <option name="PROGRAM_PARAMETERS" value="1000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab52_Exception_2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <module name="ATB8xJavaProgram" />
+      <option name="PROGRAM_PARAMETERS" value="Dhivya" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab52_Exception_3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <module name="ATB8xJavaProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -236,6 +283,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Task_20Sep" />
+      <item itemvalue="Application.Lab051_Exception" />
+      <item itemvalue="Application.Lab52_Exception_1" />
+      <item itemvalue="Application.Lab52_Exception_3" />
+      <item itemvalue="Application.Lab52_Exception_2" />
+      <item itemvalue="Application.Lab052_Exception_4" />
       <item itemvalue="Application.Task_27Sep_Print_SUM_100_Numbers" />
       <item itemvalue="Application.Task_25Sep_Count_vowels_Consonant" />
       <item itemvalue="Application.Lab026_Loop_with_condition" />
@@ -469,7 +521,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729774103681</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1729780067961</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1729780067961</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1729780123190</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729780123190</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +563,8 @@
     <MESSAGE value="Excercise" />
     <MESSAGE value="oct 2nd task" />
     <MESSAGE value="All files" />
-    <option name="LAST_COMMIT_MESSAGE" value="All files" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
