@@ -1,4 +1,4 @@
-package Oct.ex_18102024_Strings;
+package Oct.ex_21102024_ExceptionHandling;
 
 public class Lab055_Try_catch_combined {
 

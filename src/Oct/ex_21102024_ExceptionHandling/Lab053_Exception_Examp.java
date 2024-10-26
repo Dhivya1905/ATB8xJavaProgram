@@ -1,6 +1,4 @@
-package Oct.ex_18102024_Strings;
-
-import java.io.FileInputStream;
+package Oct.ex_21102024_ExceptionHandling;
 
 public class Lab053_Exception_Examp {
 

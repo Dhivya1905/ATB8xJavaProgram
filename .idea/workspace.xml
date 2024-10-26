@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="new commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Baseclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Exception_CLI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab052_Exception_CLI_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab053_Exception_Examp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab054_Try_catch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab055_Try_catch_combined.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_WrapperClass/Wrapper_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_WrapperClass/Wrapperclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/Lab047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11092024_Encapsulation/Superkeyword/Examp_2/TestCase.java" afterDir="false" />
-    </list>
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="26 oct" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +106,7 @@
     "Application.Lab052_Exception_4.executor": "Run",
     "Application.Lab053_Exception_Examp.executor": "Run",
     "Application.Lab054_Try_catch.executor": "Run",
+    "Application.Lab055_Try_catch_combined.executor": "Run",
     "Application.Lab52_Exception_1.executor": "Run",
     "Application.Lab52_Exception_2.executor": "Run",
     "Application.Lab52_Exception_3.executor": "Run",
@@ -204,7 +193,7 @@
       </method>
     </configuration>
     <configuration name="Lab051_Exception" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Exception_CLI" />
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ExceptionHandling.Exception_CLI" />
       <module name="ATB8xJavaProgram" />
       <option name="PROGRAM_PARAMETERS" value="11 12 13" />
       <method v="2">
@@ -212,7 +201,7 @@
       </method>
     </configuration>
     <configuration name="Lab052_Exception_4" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ExceptionHandling.Lab052_Exception_CLI_1" />
       <module name="ATB8xJavaProgram" />
       <option name="PROGRAM_PARAMETERS" value="0" />
       <method v="2">
@@ -220,7 +209,7 @@
       </method>
     </configuration>
     <configuration name="Lab52_Exception_1" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ExceptionHandling.Lab052_Exception_CLI_1" />
       <module name="ATB8xJavaProgram" />
       <option name="PROGRAM_PARAMETERS" value="1000" />
       <method v="2">
@@ -228,7 +217,7 @@
       </method>
     </configuration>
     <configuration name="Lab52_Exception_2" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ExceptionHandling.Lab052_Exception_CLI_1" />
       <module name="ATB8xJavaProgram" />
       <option name="PROGRAM_PARAMETERS" value="Dhivya" />
       <method v="2">
@@ -236,7 +225,7 @@
       </method>
     </configuration>
     <configuration name="Lab52_Exception_3" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab052_Exception_CLI_1" />
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ExceptionHandling.Lab052_Exception_CLI_1" />
       <module name="ATB8xJavaProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -537,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729780123190</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="26 oct">
+      <option name="closed" value="true" />
+      <created>1729953305617</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729953305617</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +561,8 @@
     <MESSAGE value="oct 2nd task" />
     <MESSAGE value="All files" />
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="26 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
