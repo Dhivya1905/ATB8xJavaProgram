@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="26 oct" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="26 oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Custom_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/finally_throwable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +58,10 @@
     "Application.ATBStudent.executor": "Run",
     "Application.Car.executor": "Run",
     "Application.Car1.executor": "Run",
+    "Application.Custom_Exception.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Examp_1.executor": "Run",
+    "Application.Exception_CLI.executor": "Run",
     "Application.Lab0017_RelationalOperator.executor": "Run",
     "Application.Lab0018_LogicalOperator.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -136,8 +144,10 @@
     "Application.Task_27Sep_Print_SUM_100_Numbers.executor": "Run",
     "Application.Task_27_Primenumber.executor": "Debug",
     "Application.Thief.executor": "Run",
+    "Application.Throws.executor": "Run",
     "Application.Wrapper_Exception.executor": "Run",
     "Application.Wrapperclass.executor": "Run",
+    "Application.finally_throwable.executor": "Run",
     "Application.stringBuilder_stringBuffer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -534,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729953305617</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="26 oct">
+      <option name="closed" value="true" />
+      <created>1729953527336</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729953527336</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
