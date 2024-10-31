@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="26 oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Custom_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/finally_throwable.java" afterDir="false" />
+    <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="27 oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct25/LeftAngleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct25/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/Array_1D_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/Lab056_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/Lab057_RightAngleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/String_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/ex_25102024_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Custom_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/Custom_Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/Throws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/finally_throwable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/finally_throwable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +122,8 @@
     "Application.Lab053_Exception_Examp.executor": "Run",
     "Application.Lab054_Try_catch.executor": "Run",
     "Application.Lab055_Try_catch_combined.executor": "Run",
+    "Application.Lab056_Program.executor": "Run",
+    "Application.Lab057_RightAngleTriangle.executor": "Run",
     "Application.Lab52_Exception_1.executor": "Run",
     "Application.Lab52_Exception_2.executor": "Run",
     "Application.Lab52_Exception_3.executor": "Run",
@@ -122,8 +131,11 @@
     "Application.Lab_012_string_formatted.executor": "Run",
     "Application.Lab_031_ContinueExample2.executor": "Run",
     "Application.Lab_032_UserInput.executor": "Run",
+    "Application.LeftAngleTriangle.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.Pyramid.executor": "Run",
     "Application.StringEqual.executor": "Run",
+    "Application.String_Array.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Task27Sep_Count_vowela_Consonant.executor": "Run",
     "Application.Task27_PrintTable10.executor": "Run",
@@ -147,6 +159,7 @@
     "Application.Throws.executor": "Run",
     "Application.Wrapper_Exception.executor": "Run",
     "Application.Wrapperclass.executor": "Run",
+    "Application.ex_25102024_Arrays.executor": "Run",
     "Application.finally_throwable.executor": "Run",
     "Application.stringBuilder_stringBuffer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -552,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729953527336</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="27 oct">
+      <option name="closed" value="true" />
+      <created>1730015055760</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730015055760</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -580,7 +601,8 @@
     <MESSAGE value="All files" />
     <MESSAGE value="new commit" />
     <MESSAGE value="26 oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="26 oct" />
+    <MESSAGE value="27 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="27 oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,10 +712,30 @@
           <line>13</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/Task/Oct25/LeftAngleTriangle.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/Task/Oct25/LeftAngleTriangle.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/Task/Oct25/LeftAngleTriangle.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/Task/Oct25/Pyramid.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/ex_06092024/Lab003.java</url>
           <line>4</line>
-          <properties class="Lab003">
+          <properties class="Lab003" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

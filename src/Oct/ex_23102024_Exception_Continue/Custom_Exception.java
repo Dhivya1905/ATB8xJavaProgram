@@ -1,4 +1,4 @@
-package Oct.ex_22102024_Exception_Continue;
+package Oct.ex_23102024_Exception_Continue;
 
 public class Custom_Exception {
 
