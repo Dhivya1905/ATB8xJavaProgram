@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="27 oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct25/LeftAngleTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct25/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/Array_1D_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/Lab056_Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/Lab057_RightAngleTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/String_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Array/ex_25102024_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct28/CollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct28/Function_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct28/List_ArrayList_LinkedList_Stack_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/CollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab061_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/MyList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/Lab062_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/Stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/set1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Custom_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/Custom_Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/Throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/Throws.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Exception_Continue/finally_throwable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Exception_Continue/finally_throwable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -65,10 +70,12 @@
     "Application.ATBStudent.executor": "Run",
     "Application.Car.executor": "Run",
     "Application.Car1.executor": "Run",
+    "Application.CollectionFramework.executor": "Run",
     "Application.Custom_Exception.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Examp_1.executor": "Run",
     "Application.Exception_CLI.executor": "Run",
+    "Application.Function_Example.executor": "Run",
     "Application.Lab0017_RelationalOperator.executor": "Run",
     "Application.Lab0018_LogicalOperator.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -124,6 +131,11 @@
     "Application.Lab055_Try_catch_combined.executor": "Run",
     "Application.Lab056_Program.executor": "Run",
     "Application.Lab057_RightAngleTriangle.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061_Vector.executor": "Run",
+    "Application.Lab062_Example.executor": "Run",
     "Application.Lab52_Exception_1.executor": "Run",
     "Application.Lab52_Exception_2.executor": "Run",
     "Application.Lab52_Exception_3.executor": "Run",
@@ -132,8 +144,14 @@
     "Application.Lab_031_ContinueExample2.executor": "Run",
     "Application.Lab_032_UserInput.executor": "Run",
     "Application.LeftAngleTriangle.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.LinkedList1.executor": "Run",
+    "Application.List.executor": "Run",
+    "Application.MyList.executor": "Run",
+    "Application.MyList1.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Pyramid.executor": "Run",
+    "Application.Stack1.executor": "Run",
     "Application.StringEqual.executor": "Run",
     "Application.String_Array.executor": "Run",
     "Application.Student.executor": "Run",
@@ -161,6 +179,7 @@
     "Application.Wrapperclass.executor": "Run",
     "Application.ex_25102024_Arrays.executor": "Run",
     "Application.finally_throwable.executor": "Run",
+    "Application.set1.executor": "Run",
     "Application.stringBuilder_stringBuffer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -573,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730015055760</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="27 oct">
+      <option name="closed" value="true" />
+      <created>1730360003321</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730360003321</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -729,7 +756,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Oct/Task/Oct25/Pyramid.java</url>
-          <line>31</line>
+          <line>34</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
