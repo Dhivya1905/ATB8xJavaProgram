@@ -3,7 +3,7 @@ package Nov.Task_NOV;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Duplicate_Element_Array {
+public class Duplicate_Element_Array_HashMap {
 
 
     //Duplicate Elements of an Array
