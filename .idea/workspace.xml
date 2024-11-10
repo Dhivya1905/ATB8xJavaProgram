@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df24d0-5b7b-43b5-98d2-bb67b22e985c" name="Changes" comment="27 oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct28/CollectionFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct28/Function_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Oct28/List_ArrayList_LinkedList_Stack_Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/CollectionFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab059.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab061_Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/MyList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/Lab062_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/Stack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_CollectionFramework/set1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/Task_NOV/Duplicate_Element_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/Task_NOV/Frequency_of_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/Task_NOV/HashTable_Vs_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/Task_NOV/Iterate_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/Task_NOV/Reverse_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_CollectionFrameWork/Lab063_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_CollectionFrameWork/Lab064_MAp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_CollectionFrameWork/Lab065_HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_CollectionFrameWork/List_contains_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_CollectionFrameWork/Set_Part_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_Generics/Generic_Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_04112024_Generics/Generic_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,9 +71,15 @@
     "Application.CollectionFramework.executor": "Run",
     "Application.Custom_Exception.executor": "Run",
     "Application.Dog.executor": "Run",
+    "Application.Duplicate_Element_Array.executor": "Run",
     "Application.Examp_1.executor": "Run",
     "Application.Exception_CLI.executor": "Run",
+    "Application.Frequency_of_Element.executor": "Run",
     "Application.Function_Example.executor": "Run",
+    "Application.Generic_Ex2.executor": "Run",
+    "Application.Generic_ex.executor": "Run",
+    "Application.HashTable_Vs_HashMap.executor": "Run",
+    "Application.Iterate_Map.executor": "Run",
     "Application.Lab0017_RelationalOperator.executor": "Run",
     "Application.Lab0018_LogicalOperator.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -136,6 +140,9 @@
     "Application.Lab060.executor": "Run",
     "Application.Lab061_Vector.executor": "Run",
     "Application.Lab062_Example.executor": "Run",
+    "Application.Lab063_Queue.executor": "Run",
+    "Application.Lab064_MAp.executor": "Run",
+    "Application.Lab065_HashTable.executor": "Run",
     "Application.Lab52_Exception_1.executor": "Run",
     "Application.Lab52_Exception_2.executor": "Run",
     "Application.Lab52_Exception_3.executor": "Run",
@@ -147,10 +154,13 @@
     "Application.LinkedList.executor": "Run",
     "Application.LinkedList1.executor": "Run",
     "Application.List.executor": "Run",
+    "Application.List_contains_Map.executor": "Run",
     "Application.MyList.executor": "Run",
     "Application.MyList1.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Pyramid.executor": "Run",
+    "Application.Reverse_ArrayList.executor": "Run",
+    "Application.Set_Part_2.executor": "Run",
     "Application.Stack1.executor": "Run",
     "Application.StringEqual.executor": "Run",
     "Application.String_Array.executor": "Run",
@@ -173,6 +183,7 @@
     "Application.Task_27Sep_First5_EvenNumber.executor": "Run",
     "Application.Task_27Sep_Print_SUM_100_Numbers.executor": "Run",
     "Application.Task_27_Primenumber.executor": "Debug",
+    "Application.Test.executor": "Run",
     "Application.Thief.executor": "Run",
     "Application.Throws.executor": "Run",
     "Application.Wrapper_Exception.executor": "Run",
@@ -600,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730360003321</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="27 oct">
+      <option name="closed" value="true" />
+      <created>1730806817591</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730806817591</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -758,6 +777,31 @@
           <url>file://$PROJECT_DIR$/src/Oct/Task/Oct25/Pyramid.java</url>
           <line>34</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nov/Task_NOV/Reverse_ArrayList.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nov/Task_NOV/Reverse_ArrayList.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nov/Task_NOV/Duplicate_Element_Array.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nov/Task_NOV/Duplicate_Element_Array.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nov/Task_NOV/Duplicate_Element_Array.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/ex_06092024/Lab003.java</url>
